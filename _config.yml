@@ -1,15 +1,11 @@
-# Site settings
-title: Thanh's Stuffs
-email: dondmt@gmail.com
-description: >
-  This is my description
-baseurl: ""
+permalink: /:categories/:title/
 url: "http://thanhdonnguyen.github.io"
-
-# Collections
-#collections:
-#  books:
-#    output: false
-
-sass:
-  style: compressed
+full_name: "Ngày Xưa Hoàng Thị"
+first_name: "Thanh"
+last_name: "Nguyen"
+blog_title: "Title"
+author_img_name_path: "/images/users/user.jpg"
+disqus_shortname: "example"
+copyright_year: "2017"
+google_analytics_code: ""
+aboutme: "I like taking picure"
