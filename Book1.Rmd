@@ -1,0 +1,6 @@
+---
+title: "Book"
+author: "Thanh D. Nguyen"
+date: "6/14/2017"
+output: html_document
+---
