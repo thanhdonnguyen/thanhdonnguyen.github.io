@@ -2,5 +2,16 @@
 title: "Book"
 author: "Thanh D. Nguyen"
 date: "6/14/2017"
-output: html_document
+output: 
+  html_document: 
+    theme: cosmo
+    toc: yes
 ---
+
+
+Bay đi cánh chim biển
+
+
+## Chapter 1:   
+
+## Chapter 2: 
