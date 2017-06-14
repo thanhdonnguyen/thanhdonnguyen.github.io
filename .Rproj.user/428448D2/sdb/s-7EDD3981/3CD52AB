@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"Book\"\nauthor: \"Thanh D. Nguyen\"\ndate: \"6/14/2017\"\noutput: \n  html_document: \n    theme: cosmo\n    toc: yes\n---\n\n\nBay đi cánh chim biển\n\n\n## Chapter 1:   \n\n## Chapter 2: ",
+    "created" : 1497475928278.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1931180481",
+    "id" : "3CD52AB",
+    "lastKnownWriteTime" : 1497476097,
+    "last_content_update" : 1497476097989,
+    "path" : "C:/Users/thanh/Desktop/thanhdonnguyen.github.io/Book1.Rmd",
+    "project_path" : "Book1.Rmd",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
