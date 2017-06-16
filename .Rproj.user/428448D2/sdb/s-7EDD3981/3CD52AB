@@ -1,14 +1,14 @@
 {
     "collab_server" : "",
-    "contents" : "---\ntitle: \"Book\"\nauthor: \"Thanh D. Nguyen\"\ndate: \"6/14/2017\"\noutput: \n  html_document: \n    theme: cosmo\n    toc: yes\n---\n\n\nThanh's Page\n\n\n## Chapter 1:   \n\n## Chapter 2: ",
+    "contents" : "---\ntitle: \"Book\"\nauthor: \"Thanh D. Nguyen\"\ndate: \"6/14/2017\"\noutput: \n  html_document: \n    theme: cosmo\n    toc: yes\n---\n\n\nThanh's Page\n\n\n## Chapter 1:   \n\n\n## Chapter 2: ",
     "created" : 1497475928278.000,
     "dirty" : true,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2545064219",
+    "hash" : "3237034467",
     "id" : "3CD52AB",
     "lastKnownWriteTime" : 1497476097,
-    "last_content_update" : 1497575342223,
+    "last_content_update" : 1497576483900,
     "path" : "C:/Users/thanh/Desktop/thanhdonnguyen.github.io/Book1.Rmd",
     "project_path" : "Book1.Rmd",
     "properties" : {
