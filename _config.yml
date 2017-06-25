@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  GALLERY: "https://thanhdonnguyen.github.io/thanhdonnguyen/gallery/"  
-  JOURNAL: "https://thanhdonnguyen.github.io/thanhdonnguyen/journal/"
-  ABOUT: "https://thanhdonnguyen.github.io/thanhdonnguyen/about/"
+  GALLERY: "https://thanhdonnguyen.github.io/gallery/"  
+  JOURNAL: "https://thanhdonnguyen.github.io/journal/"
+  ABOUT: "https://thanhdonnguyen.github.io/about/"
 
 # All translation keys
 translations:
