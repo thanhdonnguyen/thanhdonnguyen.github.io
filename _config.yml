@@ -12,8 +12,8 @@ title_separator          : "-"
 name                     : "Thanh Nguyen"
 description              : "An amazing website."
 url                      : "https://thanhdonnguyen.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+baseurl                  : "thanhdonnguyen.github.io"
+repository               : "thanhdonnguye/thanhdonnguyen.github.io"
 teaser                   : "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
